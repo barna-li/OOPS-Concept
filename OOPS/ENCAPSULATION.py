@@ -25,7 +25,7 @@ i.courses =57
 i.blogs ="Designing"
 i.internships="Big Data"
 i.job ="Data Analyst"
-i.stud()              #overwrite value of variable from sunny day to data analytics
+i.stud()              
 
 #PRIVATE VARIABLE
 
